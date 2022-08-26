@@ -1,3 +1,5 @@
 # first_repo
-Its is just a sample repository, to practise git in detail.
-Im Murali Krishna Sundari, Recently i have joined North West Missouri State University to pursue masters in Applied Computer Science.
+first repository
+It is a ReadMe.md file.
+I'm Murali Krishna Sundari, Recently i have joined NorthWest Missouri.
+I'm modifying this file from VSCode editor.
