@@ -1,5 +1,7 @@
-01 line Every
+01 line Every got changed.
 02 line Good
+<!--I want to keep content from both files-->
 03 line Boy got modified in main branch.
+03 line Boy got changed.
 04 line Deserves
 05 line Favor got modified in main branch.
